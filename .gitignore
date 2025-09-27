@@ -1,0 +1,37 @@
+### Flutter ###
+
+# Build products
+**/build/*
+
+# IDE Config Files
+**/.idea/*
+**/.vscode/*
+
+# OS generated files
+**/.DS_Store
+**/*.log
+
+# Other generated files
+**/*.g.dart
+**/*.freezed.dart
+**/*.config
+**/*.yaml.tmp
+**/*.json.tmp
+**/*.iml
+
+# Android Studio Specific files
+android/.gradle
+android/build
+android/local.properties
+android/.idea
+
+# iOS Specific files
+ios/Flutter/AppFrameworkInfo.plist
+ios/Podfile.lock
+ios/Pods/
+ios/Runner.xcodeproj/project.xcworkspace/
+ios/build/
+
+# Compiled artifacts
+*.apk
+*.ipa
